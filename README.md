@@ -9,5 +9,5 @@ objetivo: Simular uma ferramenta de "viagem no tempo" mostrando o que aconteceu
 de importante nos anos de 1995 até 2023.
 
  Dupla : 
-> Ketlyn Barbosa
+> Ketlyn Barbosa &
 >  Mikaella Suyane
